@@ -31,4 +31,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # My Own Gems
 gem 'rspec-rails', '~> 4.0', '>= 4.0.2'
-gem 'factory_bot', '~> 6.1'
+gem 'factory_bot_rails', '~> 6.1'
